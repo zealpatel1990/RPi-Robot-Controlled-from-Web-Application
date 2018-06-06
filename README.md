@@ -19,5 +19,6 @@ Step 1 is to install node js and modules:
 Step 2 Now edit line 16 of "remleaf.js" set corret path of remleaf folder you just downloaded.
        you can also (line 6,7,8,9) change gpio pin no. according to your connection to motordriver. 
        
-       now run program by typing
+ now run program by typing
+       
        sudo node remleaf.js
