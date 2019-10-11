@@ -1,8 +1,8 @@
 # wifi_bot
 v 1.0
 
-Step 1 is to install node js and modules:
-       enter following commands;
+Step 1 is to install node js and modules in raspberry pi:
+       enter following commands in raspberry pi command line;
 	   
       sudo apt-get update
 	  
