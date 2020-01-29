@@ -18,13 +18,13 @@ Step 1 is to install node js and modules in raspberry pi:
 
       npm install pigpio
 
-       npm install express
+      npm install express
 	   
-       npm install ip
+      npm install ip
 	   
-       npm install socket.io
+      npm install socket.io
 	   
-       sudo reboot
+      sudo reboot
 	
        
        
