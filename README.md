@@ -1,5 +1,5 @@
-# wifi_bot
-v 1.0
+# Raspberry Pi Based Robot Controlled Wirelessly through Web Application
+v 1.1
 
 Step 1 is to install node js and modules in raspberry pi:
        enter following commands in raspberry pi command line;
